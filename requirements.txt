@@ -1,0 +1,28 @@
+# --- Core Data Science & ML ---
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
+scipy==1.15.3
+xgboost==3.1.2
+statsmodels==0.14.6
+networkx==3.4.2
+
+# --- Visualization ---
+matplotlib==3.10.7
+seaborn==0.13.2
+
+# --- Interactive Environment ---
+jupyterlab==4.5.0
+notebook==7.5.0
+ipykernel==6.29.5
+
+# --- NLP & Text Processing ---
+nltk==3.9.2
+beautifulsoup4==4.14.3
+textstat==0.7.12
+
+# --- Utilities & Networking ---
+requests==2.32.5
+httpx==0.28.1
+tqdm==4.67.1
+PyYAML==6.0.3
